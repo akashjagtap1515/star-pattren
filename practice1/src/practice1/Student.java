@@ -1,6 +1,6 @@
 package practice1;
 public class Student {
-	
+	//super
 public static int a=1;
     static int b=2;
  protected static int c=3;

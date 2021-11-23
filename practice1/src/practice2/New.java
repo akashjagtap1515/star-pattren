@@ -3,7 +3,7 @@ package practice2;
 public class New {
 
 	public static void main(String[] args) {
-String a = "akAsh";
+String a = "akAsh budgude";
 String  b= "akash";
 
 String c= new String ("akash");
